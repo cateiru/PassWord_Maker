@@ -12,4 +12,4 @@ Password generator program.<br>
 Language used<br>
 >HTML<br>
 >JavaScript<br>
->SS<br>
+>CSS<br>
