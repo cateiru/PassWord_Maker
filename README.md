@@ -2,17 +2,16 @@
 
 パスワード生成プログラムです。
 
-:Japanese
-使用言語
-  HTML
-  JavaScript
-  CSS
- <br>
+:Japanese<br>
+使用言語<br>
+  HTML<br>
+  JavaScript<br>
+  CSS<br><br>
+  
+:English<br>
+Password generator program.<br>
 
-:English
-Password generator program.
-
-Language used
-   HTML
-   JavaScript
-   CSS
+Language used<br>
+   HTML<br>
+   JavaScript<br>
+   CSS<br>
