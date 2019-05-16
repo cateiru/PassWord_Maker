@@ -2,13 +2,14 @@
 
 パスワード生成プログラムです。
 
-<Japanese>
+:Japanese
 使用言語
   HTML
   JavaScript
   CSS
+ <br>
 
-<English>
+:English
 Password generator program.
 
 Language used
