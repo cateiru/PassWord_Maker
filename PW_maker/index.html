@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>PWメーカー</title>
+		<script src="script.js"></script>
+	</head>
+	
+	<body>
+		<h1>パスワードを生成します。</h1>
+		<p>入れるものの設定</p>
+		<form name="form1">
+			<!--数字-->
+			<input type="checkbox" name="inNumber">数字<br>
+			<!--アルファベット-->
+			<input type="checkbox" name="inAlphabet">アルファベット<br>
+			<!--記号-->
+			<input type="checkbox" name="inSymbol">記号<br>
+		</form>
+		<p>生成する文字数の設定</p>
+		<form name="form2">
+			<input type="number" name="inNumberCount" value="12" max="100"><br>
+		</form>
+		<input type="button" value="生成" onclick="onBtn()">
+		
+		<br><br>
+		<div id="output"></div>
+	</body>
+</html>
